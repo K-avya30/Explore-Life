@@ -1,0 +1,25 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    padding: 30px;
+    
+}
+.container{
+    min-height: 300px;
+    width: 1200px;
+    background-image: url(/606.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+
+}
+.container-text{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    top: 25%;
+    font-size:x-large;
+}
+.p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
